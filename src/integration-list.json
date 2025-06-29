@@ -38,5 +38,25 @@
   {
     "entityAddress": "0x7320f31d71a5294f04f7eeeb101418feed3d3119",
     "githubUsername": "Argusham"
+  },
+  {
+    "entityAddress": "0xb8bd78da39611be447599fdb8c665fe41b0353e2",
+    "githubUsername": "LiveDemoEthCC"
+  },
+  {
+    "entityAddress": "0x314ac2ec8d3bcd8b73a24b1990570e21d48f925f",
+    "githubUsername": "EthCCTest1"
+  },
+  {
+    "entityAddress": "0x227db3f362419c39c64b4e9928aef3848ad793fa",
+    "githubUsername": "EthCCTest2"
+  },
+  {
+    "entityAddress": "0xbe67a87d7acfe947bf5f26dac0c2550d241cb9f4",
+    "githubUsername": "EthCCTest3"
+  },
+  {
+    "entityAddress": "0xef1fe82ba12a6e1a49806473ff2a8682b6944578",
+    "githubUsername": "EthCCTest4"
   }
 ]
